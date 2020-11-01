@@ -1,7 +1,7 @@
 
 # Git e Github 
   
-O Git é um sistema de controle de cersão (VCS). Não permite o envio de uma alteração antes baixar as alterações que já foram enviadas, para que só então consiga enviar a versão atualizada.
+O Git é um sistema de controle de versão (VCS). Não permite o envio de uma alteração, antes baixar as alterações que já foram enviadas, para que só então consiga enviar a versão atualizada.
 
 1º passo: instalar o Git Bash;
 
